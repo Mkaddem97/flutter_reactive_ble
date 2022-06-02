@@ -1,6 +1,5 @@
-# flutter_reactive_ble
-
-Demonstrates how to use the `flutter_reactive_ble` plugin.
+# BLE_DTN
+Demonstrates how to use the `BLE_DTN` plugin.
 
 ## Getting Started
 
